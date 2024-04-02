@@ -30,7 +30,7 @@ int main()
 		cout << "Enter an operator (+, -, * or /):"; // ask for operator, loop while i is equal to 1
 		cin >> op;
 
-		cout << "Enter two integers, include a space between integers:"; // ask for the two numbers, in while loop
+		cout << "Enter two integers, include a space between integers: "; // ask for the two numbers, in while loop
 		cin >> num1 >> num2;
 
 		switch (op)
